@@ -1,6 +1,6 @@
 <template>
-  <Navbar />
   <div id="dashboard">
+    <Navbar />
     <h2>here goes the product components</h2>
   </div>
 </template>
@@ -10,10 +10,9 @@ export default {
   name: 'dashboard',
   data () {
     return {
-    },
-  components:{
-    Navbar
     }
-  }
+  },
+  components: {
+    Navbar}
 }
 </script>
