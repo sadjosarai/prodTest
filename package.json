@@ -14,6 +14,10 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "@material-ui/core": "^5.0.0-beta.5",
+    "@material-ui/icons": "^5.0.0-beta.5",
+    "material-design-icons": "^3.0.1",
+    "materialize-css": "^1.0.0-rc.2",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
